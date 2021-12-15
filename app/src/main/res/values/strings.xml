@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatToDo</string>
+    <string name="todo_hint">enter what todo here</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="edit_todo">edit todo</string>
+    <string name="delete_todo">delete todo</string>
+    <string name="nothing_image">nothing todo image</string>
+    <string name="nothing_text">Hi! I have nothing to do</string>
+    <string name="exercise">I want to start exercising as soon as I start okay. Yes Carlton Mpofu you definitely should start. Enjoy yourself, have fun, sweat it out, and when you are one dont forget to take a bath. Doesnt matter if the water is cold or warm.</string>
+</resources>
