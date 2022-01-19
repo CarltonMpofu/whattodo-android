@@ -1,4 +1,4 @@
-# whattodo-android
+# WhatTodo-android
 
 A simple todo App made in Android Studio.
 
@@ -9,8 +9,8 @@ A simple todo App made in Android Studio.
 
 ![](screenshots/my_icon.png)
 
-![](screenshots/screenshot_1.png)
+![](screenshots/screenshot_1.jpg)
 
-![](screenshots/screenshot_2.png)
+![](screenshots/screenshot_2.jpg)
 
-![](screenshots/screenshot_3.png)
+![](screenshots/screenshot_3.jpg)
